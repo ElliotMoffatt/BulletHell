@@ -12,6 +12,31 @@
   <body align="center" style="background-color:#000000">
     <div style="margin: auto;align-items: center; display: flex; justify-content: center; padding: 40px">
     <div id="gameContainer" style="width: 1024px; height: 768px; margin-left: auto; margin-right:auto"></div>
+      <br>
+      <input type="button" value="click to toggle fullscreen" onclick="toggleFullScreen()">
     </div>
   </body>
+  
+  <script>
+    function toggleFullScreen() {
+  if ((document.fullScreenElement && document.fullScreenElement !== null) ||    
+   (!document.mozFullScreen && !document.webkitIsFullScreen)) {
+    if (document.documentElement.requestFullScreen) {  
+      document.documentElement.requestFullScreen();  
+    } else if (document.documentElement.mozRequestFullScreen) {  
+      document.documentElement.mozRequestFullScreen();  
+    } else if (document.documentElement.webkitRequestFullScreen) {  
+      document.documentElement.webkitRequestFullScreen(Element.ALLOW_KEYBOARD_INPUT);  
+    }  
+  } else {  
+    if (document.cancelFullScreen) {  
+      document.cancelFullScreen();  
+    } else if (document.mozCancelFullScreen) {  
+      document.mozCancelFullScreen();  
+    } else if (document.webkitCancelFullScreen) {  
+      document.webkitCancelFullScreen();  
+    }  
+  }  
+}
+  </script>
 </html>
