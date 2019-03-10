@@ -6,7 +6,11 @@ Thank you for agreeing to participate in my project. This will take about 30 min
 
 - Below is a link to the game (Don't go there yet, keep reading). The game has 2 game modes, Mode X and Mode Y. While the mechanics of the game don't change between these gamemodes, the Dynamic Difficulty Adjustment System (DDA) used changes
 
-- You can fullscreen the game by pressing F11. also the game doesnt have any sound so I recommend listening to <a href="https://youtu.be/QvHoh0T5W7Y" target="_blank">this album by RichaadEB</a> while playing.
+- You can fullscreen the game by pressing F11. 
+
+- This game can be played with keyboard & Mouse or Controller
+
+- The game doesnt have any sound so I recommend listening to <a href="https://youtu.be/QvHoh0T5W7Y" target="_blank">this album by RichaadEB</a> while playing.
 
 - I highly recommend you play through the tutorial first. It only takes about 30 seconds.
 
@@ -20,11 +24,9 @@ Thank you for agreeing to participate in my project. This will take about 30 min
 
 - Once you have completed both game modes (or just one if you don't have time for both), please complete the survey below (it's anonymous, so please answer as accurately as possible)
 
+<img src="guide.png">
+
 # Play the game <a href="https://elliotmoffatt.github.io/BulletHell/" target="_blank">HERE</a>
-
-Press F11 to go into fullscreen mode
-
-This game can be played with keyboard & Mouse or Controller
 
 # Answer some questions about the experience <a href="https://docs.google.com/forms/d/e/1FAIpQLSe0I-o8spG3YJJQ-zj_UJk226CXSYsqtsqxoYVtbjAQa7hZuA/viewform?usp=sf_link" target="_blank">Here</a>
 
