@@ -28,5 +28,5 @@ Thank you for agreeing to participate in my project. This will take about 30 min
 
 # Play the game <a href="https://elliotmoffatt.github.io/BulletHell/" target="_blank">HERE</a>
 
-# Answer some questions about the experience <a href="https://docs.google.com/forms/d/e/1FAIpQLSe0I-o8spG3YJJQ-zj_UJk226CXSYsqtsqxoYVtbjAQa7hZuA/viewform?usp=sf_link" target="_blank">Here</a>
+# Answer some questions about the experience <a href="https://docs.google.com/forms/d/e/1FAIpQLSe0I-o8spG3YJJQ-zj_UJk226CXSYsqtsqxoYVtbjAQa7hZuA/viewform?usp=sf_link" target="_blank">HERE</a>
 
