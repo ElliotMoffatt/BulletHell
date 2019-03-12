@@ -1,5 +1,5 @@
 # BulletHell
-This Game is created to test two different Dynamic Difficulty Adjustment Systems
+This Game is created to test two different Dynamic Difficulty Adjustment Systems. These systems detect how well you are playing the game and adjust certain aspects of the game to make it easier or harder for you accordingly.
 
 # Instructions
 Thank you for agreeing to participate in my project. This will take about 30 minutes. Here's what you need to do:
@@ -20,9 +20,13 @@ Thank you for agreeing to participate in my project. This will take about 30 min
 
 - While playing, please think about how engaging the game is: how boring/challenging/frustrating is each level? You may want to go have a quick look at the survey before playing so you know what to be thinking about while playing
 
-- If possible, please try both Modes. If you quit the first mode without completing it, please still try the second mode. You may want to take a break between playing each mode, But please make a note of which Mode you played first, as well as your lives lost, levels completed and anything else you may forget.
+- Once you are done playing the first Game Mode, please complete Sections 1 to 4 of the survey. If you do not wish to play the second Game Mode then answer no in Section 4 and click next to finish the survey.
 
-- Once you have completed both game modes (or just one if you don't have time for both), please complete the survey below (it's anonymous, so please answer as accurately as possible)
+- If possible, please try both Modes. If you quit the first mode without completing it, please still try the second mode. You may want to take a break between playing each mode (but don't close your browser or you'll lose everything you've already entered into the survey). Remember that each game mode uses a different DDA system, so just because you found the first Game Mode too challenging doesnt mean the second will feel the same!
+
+- Once you have completed the second Game Mode, you can finish the remaining sections of the survey
+
+- Thank you for your help!
 
 <img src="guide.png">
 
