@@ -10,7 +10,7 @@ Thank you for agreeing to participate in my project. This will take about 30 min
 
 - This game can be played with keyboard & Mouse or Controller
 
-- The game doesnt have any sound so I recommend listening to <a href="https://youtu.be/QvHoh0T5W7Y" target="_blank">this album by RichaadEB</a> while playing.
+- The game doesnt have any sound so I recommend listening to <a href="https://www.youtube.com/playlist?list=OLAK5uy_lxZ8ppOyfsh29l_IK8InEEB3z4C19iE3Y" target="_blank">this album by RichaadEB</a> while playing.
 
 - I highly recommend you play through the tutorial first. It only takes about 30 seconds.
 
