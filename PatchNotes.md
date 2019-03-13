@@ -1,6 +1,11 @@
 # Patch Notes
 Any major updates to the game will be listed here
 
+# Patch 1.0.3 (13th March, 2019)
+
+- Added Backwards fire for the player
+
+
 # Patch 1.0.1  (13th March, 2019)
 
 - Removed acceleration from player (Player accelerates to full speed instantly)
