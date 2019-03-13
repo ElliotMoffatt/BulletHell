@@ -6,3 +6,5 @@ Any major updates to the game will be listed here
 - Removed acceleration from player (Player accelerates to full speed instantly)
 
 - Nerfed the cheese strat of letting your health get low to trick the system into making the game easier
+
+- Minor nerf to Base Player Health
