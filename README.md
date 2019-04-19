@@ -2,6 +2,9 @@
 This Game is created to test two different Dynamic Difficulty Adjustment Systems. These systems detect how well you are playing the game and adjust certain aspects of the game to make it easier or harder for you accordingly.
 
 # Instructions
+
+UPDATE: I am no longer collecting data
+
 Thank you for agreeing to participate in my project. This will take about 30 minutes. Here's what you need to do:
 
 - Below is a link to the game (Don't go there yet, keep reading). The game has 2 game modes, Mode X and Mode Y. While the mechanics of the game don't change between these gamemodes, the Dynamic Difficulty Adjustment System (DDA) used changes
@@ -16,15 +19,15 @@ Thank you for agreeing to participate in my project. This will take about 30 min
 
 - Before you start playing, pick a game mode, either Mode X or Mode Y (they're at the bottom of the main menu)
 
-- You do not need to beat each level on your first try. You can replay a failed level as many times as you want. That also means you can quit whenever you want, and please do fill in the survey response whether you finish the game or not.
+- You do not need to beat each level on your first try. You can replay a failed level as many times as you want. That also means you can quit whenever you want, ~~and please do fill in the survey response whether you finish the game or not.~~
 
-- While playing, please think about how engaging the game is: how boring/challenging/frustrating is each level? You may want to go have a quick look at the survey before playing so you know what to be thinking about while playing
+- ~~While playing, please think about how engaging the game is: how boring/challenging/frustrating is each level? You may want to go have a quick look at the survey before playing so you know what to be thinking about while playing~~
 
-- Once you are done playing the first Game Mode, please complete Sections 1 to 4 of the survey. If you do not wish to play the second Game Mode then answer no in Section 4 and click next to finish the survey.
+- ~~Once you are done playing the first Game Mode, please complete Sections 1 to 4 of the survey. If you do not wish to play the second Game Mode then answer no in Section 4 and click next to finish the survey.~~
 
-- If possible, please try both Modes. If you quit the first mode without completing it, please still try the second mode. You may want to take a break between playing each mode (but don't close your browser or you'll lose everything you've already entered into the survey). Remember that each game mode uses a different DDA system, so just because you found the first Game Mode too challenging doesnt mean the second will feel the same!
+- ~~If possible, please try both Modes. If you quit the first mode without completing it, please still try the second mode. You may want to take a break between playing each mode (but don't close your browser or you'll lose everything you've already entered into the survey). Remember that each game mode uses a different DDA system, so just because you found the first Game Mode too challenging doesnt mean the second will feel the same!~~
 
-- Once you have completed the second Game Mode, you can finish the remaining sections of the survey
+- ~~Once you have completed the second Game Mode, you can finish the remaining sections of the survey~~
 
 - Thank you for your help!
 
@@ -32,5 +35,6 @@ Thank you for agreeing to participate in my project. This will take about 30 min
 
 # Play the game <a href="https://elliotmoffatt.github.io/BulletHell/" target="_blank">HERE</a>
 
-# Answer some questions about the experience <a href="https://docs.google.com/forms/d/e/1FAIpQLSe0I-o8spG3YJJQ-zj_UJk226CXSYsqtsqxoYVtbjAQa7hZuA/viewform?usp=sf_link" target="_blank">HERE</a>
+# ~~Answer some questions about the experience HERE~~
+# Thank you to those of you that provided feedback
 
