@@ -38,3 +38,5 @@ Thank you for agreeing to participate in my project. This will take about 30 min
 # ~~Answer some questions about the experience HERE~~
 # Thank you to those of you that provided feedback
 
+#The <a href="https://github.com/ElliotMoffatt/BulletHell/blob/master/DDA%20with%20Limited%20Player%20Data%20by%20Elliot%20Moffatt.pdf" target="_blank">Report</a> and <a href="https://github.com/ElliotMoffatt/BulletHell/blob/master/a2poster.pdf" target="_blank">Poster</a> are now available
+
